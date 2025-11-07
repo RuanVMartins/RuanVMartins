@@ -23,9 +23,13 @@ Você pode acompanhar aqui um pouco da minha jornada de aprendizado e minha paix
 
 
 <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/dd780a16-df3a-4f07-a41f-9d5d5e0ba125" />
- VScode ideaIU <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/49dec53d-6287-4f66-8fee-9d80510c4511" />
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) 
+[![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/49dec53d-6287-4f66-8fee-9d80510c4511" />
 
 
-HTML [CSS](https://img.shields.io/badge/CSS-563d7c?)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 <img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/28157a0f-caa2-4752-a7fe-0fd28edcb87f" />
  
