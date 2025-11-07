@@ -10,7 +10,7 @@
 
 <h2>🚀 Dev em Evolução | Um pouco sobre mim </h2>
 <p>
-Sou um profissional que está sempre evoluindo na área de tecnologia. Minha base começou forte no **Curso Técnico em Desenvolvimento de Sistemas do SENAI**, onde adquiri as ferramentas e habilidades essenciais para a codificação e a lógica de sistemas.
+Sou um programador que está sempre evoluindo na área de tecnologia. Minha base começou forte no **Curso Técnico em Desenvolvimento de Sistemas do SENAI**, onde adquiri as ferramentas e habilidades essenciais para a codificação e a lógica de sistemas.
 <br><br>
 Agora, o foco é evoluir. Estou aprofundando meus conhecimentos na graduação em **Engenharia de Software na Católica SC**. Lá, estou focado em entender as complexidades da arquitetura de software, as metodologias e as práticas que realmente garantem a qualidade e a escalabilidade dos sistemas.
 <br><br>
