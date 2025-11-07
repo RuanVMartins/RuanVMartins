@@ -15,7 +15,12 @@ Você pode acompanhar aqui um pouco da minha jornada de aprendizado e minha paix
 <h5>
 <h2> tecnologias que eu já trabalhei:</h2> 
  
-PHP Python JavaScript TypeScript Java
+<img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/b82ef862-926c-4a66-aa65-1ba57e6ac5e0" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/d72e6447-4199-4262-a9b6-860c9b55c8d0" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2dc6af7e-39e5-48e6-972e-4ea611c8f240" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/34848a02-107c-4a28-b913-5a162d52479e" />
+<img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/a49a13ea-3746-42a8-8b91-b17dbc3bd0c9" />
+
 
 NodeJS VScode ideaIU MySQL
 
