@@ -1,9 +1,10 @@
 <h1> 👨‍💻 Ruan Vitor Martins 🐈 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-vitor-martins-87102b357)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruan-vitor-martins-87102b357)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanvitormartinns@gmail.com)
  
-<img width="600px" alt="what are u doing here" src="https://github.com/user-attachments/assets/2cd31941-5551-480b-a50d-3d6688e19334">
+
+<img width="100%" alt="what are u doing here" src="https://github.com/user-attachments/assets/2cd31941-5551-480b-a50d-3d6688e19334">
 
 <br>
 
@@ -19,8 +20,8 @@ Você pode acompanhar aqui um pouco da minha jornada de aprendizado e minha paix
 </p>
 
 ---
+
 <h2> 📱 Tecnologias que eu já trabalhei: </h2>
-<br> 
  
 ### Linguagens de Programação
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
