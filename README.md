@@ -1,4 +1,4 @@
-<h1> 💻 Ruan Vitor Martins 🐈 <h1> 
+<h1> 👨‍💻 Ruan Vitor Martins 🐈 <h1> 
 
 ![what are u doing here](https://github.com/user-attachments/assets/2cd31941-5551-480b-a50d-3d6688e19334)
 
@@ -13,7 +13,7 @@ O que me move é o interesse constante em aprender e desenvolver minhas habilida
 
 Você pode acompanhar aqui um pouco da minha jornada de aprendizado e minha paixão por construir.
 <h5>
-<h2> tecnologias que eu já trabalhei:</h2> 
+<h2> 📱 tecnologias que eu já trabalhei: 💻</h2> 
  
 ### Linguagens de Programação
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
