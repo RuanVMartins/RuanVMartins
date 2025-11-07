@@ -1,7 +1,9 @@
-💻🐈 Ruan Vitor Martins
+💻 Ruan Vitor Martins 🐈
+
+![what are u doing here](https://github.com/user-attachments/assets/2cd31941-5551-480b-a50d-3d6688e19334)
 
 
-💻 Dev em Evolução | Um pouco sobre mim 
+🚀 Dev em Evolução | Um pouco sobre mim 💻
 
 Sou um profissional que está sempre evoluindo na área de tecnologia. Minha base começou forte no Curso Técnico em Desenvolvimento de Sistemas do SENAI, onde adquiri as ferramentas e habilidades  essenciais para a codificação e a lógica de sistemas.
 
