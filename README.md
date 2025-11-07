@@ -24,6 +24,7 @@ Você pode acompanhar aqui um pouco da minha jornada de aprendizado e minha paix
 <h2> 📱 Tecnologias que eu já trabalhei: </h2>
  
 ### Linguagens de Programação
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
