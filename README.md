@@ -4,7 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanvitormartinns@gmail.com)
  
 
-<img width="50%" alt="what are u doing here" src="https://github.com/user-attachments/assets/2cd31941-5551-480b-a50d-3d6688e19334">
 
 <br><br>
 
